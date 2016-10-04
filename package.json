@@ -1,0 +1,19 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "My nodejs tests",
+  "dependencies": {
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem-karpenko/node-tests.git"
+  },
+  "author": "Artem Karpenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artem-karpenko/node-tests/issues"
+  },
+  "homepage": "https://github.com/artem-karpenko/node-tests#readme"
+}
